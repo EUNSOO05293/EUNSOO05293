@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9dfbdc,100:a1da72&height=180&text=Hello~&animation=scaleIn&fontColor=0b3718&fontSize=70" />
+    [<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9dfbdc,100:a1da72&height=180&text=Hello~&animation=scaleIn&fontColor=0b3718&fontSize=70" />](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome%20to%20dev_eunsoo's%20Project!&fontAlign=50&fontSize=50&fontColor=black)
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발자가 되고 싶은 컴공생 입니다 </h2>  
